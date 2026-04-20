@@ -1,1 +1,3 @@
 Labs/Deep Learning/RoboND-Segmentation-Lab/data/*
+Labs/Deep Learning/RoboND-Segmentation-Lab/code/deeplabv3.keras
+Labs/Deep Learning/RoboND-Segmentation-Lab/code/deeplabv3_finetune.keras
